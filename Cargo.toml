@@ -1,2 +1,3 @@
 [workspace]
 members = ["container_webserver"]
+default-members = ["container_webserver"]
